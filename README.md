@@ -5,7 +5,7 @@ The goal of COSIM is to provide CO estimations at intersections in the worst cas
 
 # Main Program Flow
 1. Select the "GEN", next to the print button, to begin putting in inputs into the three general input pages 
-  a. Fill out the three Gen input pages.
+- Fill out the three Gen input pages.
   b. These pages outline the district, intersection surrounding, project name, and other general inputs needed.
   c. When the third page is finished, select "Finish" in the bottom right to complete the "GEN" section.
 2. After finishing the "GEN" input pages, the four "INT" input pages should be accessible. Click on it to continue the program.
