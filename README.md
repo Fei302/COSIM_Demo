@@ -20,4 +20,4 @@ The goal of COSIM is to provide CO estimations at intersections in the worst cas
 6. Save the final report, if needed, or make comments on it as needed.
 
 # Demo 
-![COSIM Demo](https://youtu.be/8wwRwiecWNM)
+[YouTube](https://youtu.be/8wwRwiecWNM).
