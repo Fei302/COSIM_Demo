@@ -1,4 +1,5 @@
 # COSIM_Demo
+This repository is for my CS class.
 
 # Purpose of Project
 The goal of COSIM is to provide CO estimations at intersections in the worst case scenario. It boils down to the user providing the traffic situation they want to model, sending that for calculation, and outputting the CO estimations.
